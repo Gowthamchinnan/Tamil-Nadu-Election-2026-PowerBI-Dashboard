@@ -1,3 +1,12 @@
+## Dashboard Preview
+
+### Election Dashboard
+
+![Election Dashboard](Screenshots/Election%20Dashboard.png)
+
+### Reports Dashboard
+
+![Reports Dashboard](Screenshots/Reports%20Dashboard.png)
 # Tamil Nadu Election 2026 - Power BI Dashboard
 
 ## Project Overview
